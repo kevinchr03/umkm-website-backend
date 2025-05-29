@@ -25,7 +25,7 @@ app.use(
 // Apply CORS once with your frontend origin
 app.use(
   cors({
-    origin: *,
+    origin: "*",
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     allowedHeaders: ["Content-Type", "Authorization"],
   })
