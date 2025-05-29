@@ -1,0 +1,35 @@
+2025-05-20 00:34:41:3441 error: Error in createUmkm: Umkm is not defined
+2025-05-20 00:36:19:3619 error: Error in createUmkm: Umkm is not defined
+2025-05-20 00:38:13:3813 error: Error in createUmkm: Umkm is not defined
+2025-05-20 00:38:56:3856 error: Error in getAllUmkm: UMKM is not defined
+2025-05-20 00:39:56:3956 error: Error in getAllUmkm: Cannot populate path `lokasiUMKM` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2025-05-20 00:51:57:5157 error: Error in getUmkmById: Cast to ObjectId failed for value "A" (type string) at path "_id" for model "Umkm"
+2025-05-20 23:11:00:110 error: Error in generateUmkmQrById: publicQrPath is not defined
+2025-05-20 23:11:09:119 error: Error in generateUmkmQrById: publicQrPath is not defined
+2025-05-20 23:11:46:1146 error: Error in generateUmkmQrById: qrFilename is not defined
+2025-05-27 17:03:30:330 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12ca" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:04:57:457 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12ca" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:04:59:459 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12ca" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:05:00:50 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12ca" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:05:09:59 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12cadfbc7bae7a41d" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:05:35:535 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12cadfbc7bae7a41d" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:05:39:539 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12cadfbc7bae7a41d" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:05:52:552 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12cadfbc7bae7a41d" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:05:57:557 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12cadfbc7bae7a41d" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:05:59:559 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12cadfbc7bae7a41d" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:06:01:61 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12cadfbc7bae7a41d" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:06:07:67 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12cadfbc7bae7a41d" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:06:23:623 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12cadfbc7bae7a41d" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:06:24:624 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12cadfbc7bae7a41d" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:06:26:626 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12cadfbc7bae7a41d" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:06:27:627 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12cadfbc7bae7a41d" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:06:54:654 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12cadfbc7bae7a41d" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:06:55:655 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12cadfbc7bae7a41d" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:07:11:711 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12cadfbc7bae7a41d" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:07:22:722 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12cadfbc7bae7a41d" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:07:56:756 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12cadfbc7bae7a41d" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:07:57:757 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12cadfbc7bae7a41d" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:08:52:852 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12cadfbc7bae7a41" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:09:01:91 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12cadfbc7bae7a41d" (type string) at path "_id" for model "Umkm"
+2025-05-27 17:16:42:1642 error: Error in getUmkmById: Cast to ObjectId failed for value "68349a12cadfbc7bae7a41d" (type string) at path "_id" for model "Umkm"
+2025-05-28 01:24:06:246 error: Error in createUmkm: Cannot read properties of undefined (reading 'alamat')
