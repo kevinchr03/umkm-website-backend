@@ -13,7 +13,7 @@ services:
       JWT_EXPIRE: 2h
       FRONTEND_URL: http://localhost:5173
     volumes:
-      - .:/usr/src/app # Sinkronisasi kode lokal dengan container (untuk development)
+      # - .:/usr/src/app # Sinkronisasi kode lokal dengan container (untuk development)
       - /usr/src/app/node_modules # Pastikan node_modules di container tidak ditimpa
       - /usr/src/app/logs # Volume untuk menyimpan log
       - /usr/src/app/uploads # Volume untuk menyimpan file uploads
