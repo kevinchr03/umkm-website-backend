@@ -8,7 +8,7 @@ services:
     environment:
       NODE_ENV: production
       PORT: 5000
-      MONGODB_URI: mongodb://admin:ACCESS!def00@31.97.49.97:27017/def_db # Sesuaikan dengan URI MongoDB Anda
+      MONGODB_URI: mongodb://31.97.49.97:27017 # Sesuaikan dengan URI MongoDB Anda
       JWT_SECRET: CZJMSEwVhzvnb8mUW/xg3wSaCpk0m0PkdjjIFg1h1GM=
       JWT_EXPIRE: 2h
       FRONTEND_URL: http://localhost:5173
