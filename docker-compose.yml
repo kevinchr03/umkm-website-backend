@@ -9,10 +9,9 @@ services:
       NODE_ENV: production
       PORT: 5000
       MONGODB_URI: mongodb://admin:ACCESS!def00@31.97.49.97:27017/def_db # Sesuaikan dengan URI MongoDB Anda
-      JWT_SECRET: "your_jwt_secret_key" # Ganti dengan secret key Anda yang aman
-      # Tambahkan variabel environment lainnya yang dibutuhkan oleh aplikasi Anda
-      # Contoh:
-      # API_KEY: "your_api_key"
+      JWT_SECRET: CZJMSEwVhzvnb8mUW/xg3wSaCpk0m0PkdjjIFg1h1GM=
+      JWT_EXPIRE: 2h
+      FRONTEND_URL: http://localhost:5173
     volumes:
       - .:/usr/src/app # Sinkronisasi kode lokal dengan container (untuk development)
       - /usr/src/app/node_modules # Pastikan node_modules di container tidak ditimpa
