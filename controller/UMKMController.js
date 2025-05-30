@@ -65,7 +65,7 @@ const createUmkm = async (req, res) => {
     const files = req.files;
 
     // Base URL
-    const baseUrl = process.env.BASE_URL || 'https://suarakeliling.xyz';
+    const baseUrl = process.env.FRONTEND_URL || 'https://suarakeliling.xyz';
 
     // Build full public URLs if files exist
     const gambarUmkm = files?.gambarUmkm?.[0]
